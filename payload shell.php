@@ -32,8 +32,8 @@
 - file_put_contents() , file_get_contents()
   file_put_contents( __DIR__ . '/file-name.php', file_get_contents('http://you-file.txt'));
   
-  - base64_decode
-  - base64_encode
+  - base64_decode("youcode");
+  - base64_encode("youcode");
 
 
 
